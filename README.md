@@ -1,4 +1,4 @@
-# Index
+# Understanding Ruby & Rails
 
 ## ActiveRecord
 
