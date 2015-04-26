@@ -7,7 +7,9 @@
 2. AttributeMethods
     * [Rails API Doc](http://api.rubyonrails.org/classes/ActiveModel/AttributeMethods.html)
     * [Inside ActiveModel::AttributeMethods](https://github.com/oscardelben/words-about-code/blob/master/2012/04/rails-internals-inside-attribute-methods.md#rails-internals-inside-active-model-attribute-methods) 
-     
+3. Tidbits
+    * [Tap that!](http://seejohncode.com/2012/01/02/ruby-tap-that/)
+	     
 # Ruby 
 
 1. Struct
