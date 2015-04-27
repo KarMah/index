@@ -18,6 +18,9 @@
   * [The Ruby 'Struct' Class](http://stephaniehoh.github.io/blog/2013/12/28/the-ruby-struct-class/) 
  - Tidbits
   * [Tap that!](http://seejohncode.com/2012/01/02/ruby-tap-that/)
+ - Method Chaining
+  * [Ruby method chaining](http://tjackiw.tumblr.com/post/23155838377/interview-challenge-ruby-method-chaining)
+  * [A Guide to Method Chaining](http://www.sitepoint.com/a-guide-to-method-chaining/)
 
 # Others
 1. [Practical Object-Oriented Design in Ruby](https://github.com/skmetz/poodr)
