@@ -7,11 +7,12 @@
  - AttributeMethods
     * [Reading Rails - Attribute Methods](http://www.monkeyandcrow.com/blog/reading_rails_attribute_methods/)
     * [Rails API Doc](http://api.rubyonrails.org/classes/ActiveModel/AttributeMethods.html)
-    * [Inside ActiveModel::AttributeMethods](https://github.com/oscardelben/words-about-code/blob/master/2012/04/rails-internals-inside-attribute-methods.md#rails-internals-inside-active-model-attribute-methods) 
+    * [Inside ActiveModel::AttributeMethods](https://github.com/oscardelben/words-about-code/blob/master/2012/04/rails-internals-inside-attribute-methods.md#rails-internals-inside-active-model-attribute-methods)
+    * [on: :validation](http://blog.arkency.com/2014/04/mastering-rails-validations-contexts/)	 
  - Tidbits	     
     * [Pluck it](http://meltingice.net/2013/06/11/pluck-multiple-columns-rails/)
 
-# Ruby 
+## Ruby 
 
  - Struct
   * [Structs inside out](http://blog.rubybestpractices.com/posts/rklemme/017-Struct.html)
@@ -21,6 +22,8 @@
  - Method Chaining
   * [Ruby method chaining](http://tjackiw.tumblr.com/post/23155838377/interview-challenge-ruby-method-chaining)
   * [A Guide to Method Chaining](http://www.sitepoint.com/a-guide-to-method-chaining/)
+ - Eigen what?
+  * [Singleton/Eigenclass](http://madebydna.com/all/code/2011/06/24/eigenclasses-demystified.html)
 
-# Others
+## Others
 1. [Practical Object-Oriented Design in Ruby](https://github.com/skmetz/poodr)
