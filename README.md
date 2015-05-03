@@ -8,6 +8,7 @@
     * [Reading Rails - Attribute Methods](http://www.monkeyandcrow.com/blog/reading_rails_attribute_methods/)
     * [Rails API Doc](http://api.rubyonrails.org/classes/ActiveModel/AttributeMethods.html)
     * [Inside ActiveModel::AttributeMethods](https://github.com/oscardelben/words-about-code/blob/master/2012/04/rails-internals-inside-attribute-methods.md#rails-internals-inside-active-model-attribute-methods)
+ - Validations
     * [on: :validation](http://blog.arkency.com/2014/04/mastering-rails-validations-contexts/)	 
  - Tidbits	     
     * [Pluck it](http://meltingice.net/2013/06/11/pluck-multiple-columns-rails/)
