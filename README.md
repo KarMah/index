@@ -10,8 +10,11 @@
     * [Inside ActiveModel::AttributeMethods](https://github.com/oscardelben/words-about-code/blob/master/2012/04/rails-internals-inside-attribute-methods.md#rails-internals-inside-active-model-attribute-methods)
  - Validations
     * [on: :validation](http://blog.arkency.com/2014/04/mastering-rails-validations-contexts/)	 
- - Tidbits	     
+ - Tidbits
     * [Pluck it](http://meltingice.net/2013/06/11/pluck-multiple-columns-rails/)
+ - Querying
+    * [Preload, Eagerload, Includes and Joins](http://blog.bigbinary.com/2013/07/01/preload-vs-eager-load-vs-joins-vs-includes.html)
+    * [3 ways to do eager loading (preloading) in Rails 3 & 4](http://blog.arkency.com/2013/12/rails4-preloading/)
 
 ## Ruby 
 
