@@ -28,6 +28,9 @@
   * [A Guide to Method Chaining](http://www.sitepoint.com/a-guide-to-method-chaining/)
  - Eigen what?
   * [Singleton/Eigenclass](http://madebydna.com/all/code/2011/06/24/eigenclasses-demystified.html)
+ - Refinements
+  * [Ruby 2.0 Refinements in Practice](http://yehudakatz.com/2010/11/30/ruby-2-0-refinements-in-practice/)
+  
 
 ## Others
 1. [Practical Object-Oriented Design in Ruby](https://github.com/skmetz/poodr)
