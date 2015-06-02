@@ -30,6 +30,9 @@
   * [Singleton/Eigenclass](http://madebydna.com/all/code/2011/06/24/eigenclasses-demystified.html)
  - Refinements
   * [Ruby 2.0 Refinements in Practice](http://yehudakatz.com/2010/11/30/ruby-2-0-refinements-in-practice/)
+ - Custom Enumerable 
+  * [Implementing Enumerable](http://mauricio.github.io/2015/01/12/implementing-enumerable-in-ruby.html)
+  
   
 
 ## Others
