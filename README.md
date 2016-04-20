@@ -32,7 +32,9 @@
   * [Ruby 2.0 Refinements in Practice](http://yehudakatz.com/2010/11/30/ruby-2-0-refinements-in-practice/)
  - Custom Enumerable 
   * [Implementing Enumerable](http://mauricio.github.io/2015/01/12/implementing-enumerable-in-ruby.html)
-  
+ - Metaprogramming
+  * [Sins of Metaprogramming](https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/)
+
   
 
 ## Others
